@@ -1,0 +1,26 @@
+## .NET gitignore
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+
+# Environment / secrets (nunca commitear)
+appsettings.Local.json
+.env
+*.pfx
