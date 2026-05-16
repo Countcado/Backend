@@ -1,7 +1,7 @@
 using Countcado.Domain.Common.Exceptions;
 using System.Text.Json;
 
-namespace Countcado.Api.Middleware;
+namespace Countcado.Application.Middleware;
 
 public class ExceptionHandlingMiddleware
 {

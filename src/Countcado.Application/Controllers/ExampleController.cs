@@ -2,7 +2,7 @@ using Countcado.Application.DTOs;
 using Countcado.Application.Interfaces.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Countcado.Api.Controllers;
+namespace Countcado.Application.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
